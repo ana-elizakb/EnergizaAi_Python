@@ -1,2 +1,2 @@
 # EnergizaAi_Python
-Auxilía o usuário com suas despesas de energia, contendo cálculos do cosnumo ideal de energia, valor gasto de Watzz para real e etc...
+Auxilía o usuário com suas despesas de energia, contendo cálculos do cosnumo ideal de energia e valor gasto de Watzz para real.
